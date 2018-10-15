@@ -48,4 +48,4 @@ AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javasc
 # les proxys ne doivent pas décompresser le contenu à la place de l'internaute
 Header append Vary User-Agent env=!dont-vary
 
-
+RedirectPermanent www.studiook.co
