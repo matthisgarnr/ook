@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 71 30.012">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 25px;
+      }
+
+      .cls-1 {
+        font-family: Fugue-Regular, Fugue;
+      }
+
+      .cls-2 {
+        font-family: FugueHead, Fugue;
+      }
+
+      .cls-3 {
+        font-size: 8px;
+        font-family: SourceSansPro-Regular, Source Sans Pro;
+      }
+
+      .cls-4 {
+        stroke: #000;
+        stroke-width: 10px;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+
+      .cls-6, .cls-7, .cls-8 {
+        fill: none;
+      }
+
+      .cls-6 {
+        clip-path: url(#clip);
+      }
+
+      .cls-7 {
+        clip-path: url(#clip-2);
+      }
+
+      .cls-8 {
+        clip-path: url(#clip-3);
+      }
+    </style>
+    <clipPath id="clip">
+      <use xlink:href="#fill"/>
+    </clipPath>
+    <clipPath id="clip-2">
+      <use xlink:href="#fill-2"/>
+    </clipPath>
+    <clipPath id="clip-3">
+      <use xlink:href="#fill-3"/>
+    </clipPath>
+  </defs>
+  <g id="Divers" transform="translate(0 1.82)">
+    <g id="Logo_Ook" data-name="Logo Ook" transform="translate(0 -1.82)">
+      <text id="O" class="cls-1" transform="translate(22.164 24)"><tspan x="0" y="0">O</tspan></text>
+      <text id="O-2" data-name="O" class="cls-2" transform="translate(0 24.012)"><tspan x="0" y="0">O</tspan></text>
+      <text id="_" data-name="™" class="cls-3" transform="translate(65 3)"><tspan x="0" y="8">™</tspan></text>
+    </g>
+    <g id="Groupe_38" data-name="Groupe 38" transform="translate(-1 -2.527)">
+      <g id="Rectangle_2" data-name="Rectangle 2" class="cls-4" transform="matrix(-0.719, 0.695, -0.695, -0.719, 63.494, 23.377)">
+        <rect id="fill" class="cls-5" width="3" height="11.93"/>
+        <path class="cls-6" d="M0,5h3M5,0v11.930000305175781M3,6.930000305175781h-3M-2,11.930000305175781v-11.930000305175781"/>
+      </g>
+      <g id="Rectangle_1" data-name="Rectangle 1" class="cls-4" transform="matrix(0.688, 0.725, -0.725, 0.688, 61.789, 7.198)">
+        <rect id="fill-2" class="cls-5" width="3" height="13"/>
+        <path class="cls-7" d="M0,5h3M5,0v13M3,8h-3M-2,13v-13"/>
+      </g>
+      <g id="Rectangle_4" data-name="Rectangle 4" class="cls-4" transform="matrix(0.688, 0.725, -0.725, 0.688, 61.724, 7.262)">
+        <rect id="fill-3" class="cls-5" width="3" height="9.5"/>
+        <path class="cls-8" d="M0,4.5h3M5,0v9.5M3,5h-3M-2,9.5v-9.5"/>
+      </g>
+      <g id="Groupe_7" data-name="Groupe 7" transform="translate(0 0.707)">
+        <circle id="Ellipse_1" data-name="Ellipse 1" cx="2.5" cy="2.5" r="2.5" transform="translate(46 6.2)"/>
+        <circle id="Ellipse_2" data-name="Ellipse 2" cx="2.5" cy="2.5" r="2.5" transform="translate(46 12.9)"/>
+        <circle id="Ellipse_3" data-name="Ellipse 3" cx="2.5" cy="2.5" r="2.5" transform="translate(46 19.5)"/>
+      </g>
+      <g id="Groupe_39" data-name="Groupe 39" transform="translate(0 0.707)">
+        <circle id="Ellipse_1-2" data-name="Ellipse 1" cx="2.5" cy="2.5" r="2.5" transform="translate(46 6.2)"/>
+        <circle id="Ellipse_2-2" data-name="Ellipse 2" cx="2.5" cy="2.5" r="2.5" transform="translate(46 12.9)"/>
+        <circle id="Ellipse_3-2" data-name="Ellipse 3" cx="2.5" cy="2.5" r="2.5" transform="translate(46 19.5)"/>
+      </g>
+    </g>
+  </g>
+</svg>
